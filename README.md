@@ -9,5 +9,5 @@ python app.py
 ```
 
 ```sh
-Type <a href="http://localhost:5000">http://localhost:5000 </a> in browser. 
+Type http://localhost:5000 in browser. 
 ```
