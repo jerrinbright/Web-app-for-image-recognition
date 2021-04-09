@@ -23,8 +23,7 @@ First, we will have to install heroku.
 ```sh
 sudo snap install --classic heroku
 ```
-
-Go to the directory/ repository using the terminal/ power shell. <br><br>Then follow the steps below to deploy the app in heroku:<br><br>
+<br>Now, go to the directory/ repository using the terminal/ power shell. <br><br>Then follow the steps below to deploy the app in heroku:<br><br>
 1.) Initializing git
 ```sh
 git init
