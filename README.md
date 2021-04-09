@@ -7,7 +7,7 @@ The web app can also be deployed in a server using Gunicorn Heroku (for free). <
 ```sh
 pip install -r requirements.txt
 ```
-#HOW TO RUN IN LOCAL?
+<h2>HOW TO RUN IN LOCAL?</hr>
 ```sh
 python app.py
 ```
