@@ -24,7 +24,7 @@ For Ubuntu: <br>
 ```sh
 sudo snap install --classic heroku
 ```
-For Windows:
+For Windows:<br>
 Click this link: https://cli-assets.heroku.com/heroku-x64.exe <br><br>
 
 Go to the directory/ repository. Then follow the steps below:
