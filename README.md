@@ -1,4 +1,4 @@
-# WEB-APP-FOR-IMAGE-RECOGNITION
+# WEB-APP
 
 Object recognition is done using ResNet50 pre-trained network. We custom trained over the REsNet50 model for recognition of automobile components (Oil filter, Screw, etc.). Then deployed it using FLASK along with HTML, CSS and JS framework into web. <br><br>
 The web app can also be deployed in a server using Gunicorn Heroku (for free). <br>
@@ -52,7 +52,7 @@ git remote rename heroku brainmagic
 ```sh
 git push heroku master
 ```
-APP IS DEPLOYED!!<br>
+APP IS DEPLOYED IN WEB!!<br>
 <h2>THE END!!</h2><br>
 Done in association with <a href="http://brainmagic.co.in/"> BRAINMAGIC INFOTECH </a> company.
 
