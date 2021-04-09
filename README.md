@@ -18,7 +18,7 @@ python app.py
 Then type http://localhost:5000 in browser. 
 ```
 <h2>HOW TO RUN VIA HEROKU?</h2>
-First, we will have to install heroku. <br>
+First, we will have to install heroku. <br><br>
 For windows users click this link: https://cli-assets.heroku.com/heroku-x64.exe <br><br>
 For Ubuntu: 
 
@@ -27,6 +27,7 @@ sudo snap install --classic heroku
 ```
 
 For MacOS:
+
 ```sh
 brew tap heroku/brew && brew install heroku
 ```
