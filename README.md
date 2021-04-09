@@ -54,5 +54,5 @@ git push heroku master
 ```
 APP IS DEPLOYED IN WEB!!<br>
 <h2>THE END!!</h2>
-Done in association with <a href="http://brainmagic.co.in/"> BRAINMAGIC INFOTECH </a> company.
+Done in association with <a href="http://brainmagic.co.in/"> Brainmagic Infotech </a> company.
 
