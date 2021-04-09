@@ -18,14 +18,11 @@ python app.py
 Then type http://localhost:5000 in browser. 
 ```
 <h2>HOW TO RUN VIA HEROKU?</h2>
-First, we will have to install heroku. <br><br>
-For Ubuntu: <br>
+First, we will have to install heroku.
 
 ```sh
 sudo snap install --classic heroku
 ```
-For Windows:<br>
-Click this link: https://cli-assets.heroku.com/heroku-x64.exe <br><br>
 
 Go to the directory/ repository using the terminal/ power shell. <br>Then follow the steps below to deploy the app in heroku:<br><br>
 1.) Initializing git
