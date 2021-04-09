@@ -9,7 +9,7 @@ Some of the basic requirements include Keras, numpy, tensorflow, flask and pillo
 pip install -r requirements.txt
 ```
 <h2>HOW TO RUN IN LOCAL?</h2>
-To run the flask web app in local, run the main python script in terminal (app.py).<br>
+To run the flask web app in local, run the main python script in terminal (app.py).<br><br>
 
 ```sh
 python app.py
