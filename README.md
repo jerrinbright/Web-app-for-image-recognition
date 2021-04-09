@@ -27,7 +27,7 @@ sudo snap install --classic heroku
 For Windows:<br>
 Click this link: https://cli-assets.heroku.com/heroku-x64.exe <br><br>
 
-Go to the directory/ repository using the terminal/ power shell. Then follow the steps below to deploy the app in heroku:<br>
+Go to the directory/ repository using the terminal/ power shell. Then follow the steps below to deploy the app in heroku:<br><br>
 1.) Initializing git
 ```sh
 git init
@@ -54,5 +54,5 @@ git push heroku master
 ```
 APP IS DEPLOYED IN WEB!!<br>
 <h2>THE END!!</h2>
-Done in association with <a href="http://brainmagic.co.in/"> Brainmagic Infotech </a> company.
+Work done in association with <a href="http://brainmagic.co.in/"> Brainmagic Infotech </a> company.
 
