@@ -20,16 +20,15 @@ Then type http://localhost:5000 in browser.
 <h2>HOW TO RUN VIA HEROKU?</h2>
 First, we will have to install heroku. <br><br>
 For Ubuntu: 
-
 ```sh
 sudo snap install --classic heroku
 ```
 For MacOS:
-
 ```sh
 brew tap heroku/brew && brew install heroku
 ```
-For windows users click this link: https://cli-assets.heroku.com/heroku-x64.exe <br><br>
+For Windows:<br><br>
+Click this link: https://cli-assets.heroku.com/heroku-x64.exe <br><br>
 
 Go to the directory/ repository. Then follow the steps below:
 ```sh
@@ -51,4 +50,4 @@ git remote rename heroku heroku-staging
 git push heroku master
 ```
 
-THE END!!
+<h2>THE END!!</h2>
