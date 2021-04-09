@@ -20,10 +20,12 @@ Then type http://localhost:5000 in browser.
 <h2>HOW TO RUN VIA HEROKU?</h2>
 First, we will have to install heroku. <br><br>
 For Ubuntu: 
+
 ```sh
 sudo snap install --classic heroku
 ```
 For MacOS:
+
 ```sh
 brew tap heroku/brew && brew install heroku
 ```
