@@ -17,3 +17,38 @@ python app.py
 ```sh
 Then type http://localhost:5000 in browser. 
 ```
+<h2>HOW TO RUN VIA HEROKU?</h2>
+First, we will have to install heroku. <br>
+For Ubuntu: 
+
+```sh
+sudo snap install --classic heroku
+```
+For windows users click the link below:<br>
+https://cli-assets.heroku.com/heroku-x64.exe <br>
+For MacOS:
+```sh
+brew tap heroku/brew && brew install heroku
+```
+
+Go to the directory/ repository. Then follow the steps below:
+```sh
+git init
+```
+```sh
+git add .
+```
+```sh
+git commit -m "My first commit"
+```
+```sh
+heroku create
+```
+```sh
+git remote rename heroku heroku-staging
+```
+```sh
+git push heroku master
+```
+
+THE END!!
