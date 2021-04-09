@@ -24,11 +24,6 @@ For Ubuntu: <br><br>
 ```sh
 sudo snap install --classic heroku
 ```
-For MacOS:
-
-```sh
-brew tap heroku/brew && brew install heroku
-```
 For Windows:<br>
 Click this link: https://cli-assets.heroku.com/heroku-x64.exe <br><br>
 
