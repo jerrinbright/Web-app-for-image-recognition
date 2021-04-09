@@ -25,7 +25,6 @@ For Ubuntu:
 ```sh
 sudo snap install --classic heroku
 ```
-
 For MacOS:
 
 ```sh
